@@ -1,0 +1,16 @@
+description: Ultralytics mixed model trained on dataset.yaml
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2024-01-03T18:12:19.242861'
+version: 8.0.232
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: EDGE TRUNK
+  1: F-150 FRUNK
+  2: MACH-E FRUNK
+  3: hand
